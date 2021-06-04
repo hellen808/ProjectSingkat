@@ -16,4 +16,4 @@ The result from model is binary classification, poor and rich. For Poverty_ML mo
 ```
 # Further Development
 
-This project still needs many improvement besides its technical or . Please do pull request if necesarry. 
+This project still needs many improvement in technical and code eficiency. Please do pull request if necesarry. 
